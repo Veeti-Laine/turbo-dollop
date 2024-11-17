@@ -13,6 +13,6 @@ Repository for cybersecurity and data privacy course.
 
 16.11.2024, 40m: Installed burpsuite, troubleshooting, read documentation, and got familiar with the program.
 
-16.11.2024, 2h: Completed labs "SQL injection vulnerability in WHERE clause allowing retrieval of hidden data" and "SQL injection vulnerability allowing login bypass"
+16.11.2024, 3h: Completed labs "SQL injection vulnerability in WHERE clause allowing retrieval of hidden data", "SQL injection vulnerability allowing login bypass", and "Unprotected admin functionality"
 
 17.11.2024, 1h: Completed lab "Username enumeration via different responses"
