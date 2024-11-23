@@ -18,3 +18,7 @@ Repository for cybersecurity and data privacy course.
 17.11.2024, 1h: Completed lab "Username enumeration via different responses"
 
 17.11.2024, 40m: Wrote a short reflection for each completed lab.
+
+23.11.2024, 1h: Created and tested a database in docker.
+
+23.11.2024, 1h: Implemented and tested the registration page.
