@@ -22,3 +22,5 @@ Repository for cybersecurity and data privacy course.
 23.11.2024, 1h: Created and tested a database in docker.
 
 23.11.2024, 1h: Implemented and tested the registration page.
+
+23.11.2024, Completed first tests for registration page, generated the [report](https://github.com/Veeti-Laine/turbo-dollop/blob/main/registration_tests_first_report.md)
